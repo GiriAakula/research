@@ -1,0 +1,1 @@
+[[text](https://github.com/trekhleb/javascript-algorithms)](https://link)
