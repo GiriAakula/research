@@ -1,1 +1,1 @@
-[[text](https://github.com/trekhleb/javascript-algorithms)](https://link)
+[https://github.com/trekhleb/javascript-algorithms](https://link)
