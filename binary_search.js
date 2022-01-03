@@ -13,6 +13,7 @@ function binarySearch(num){
     if(start > end){
         return -1;
     }
+    // giriaakula
     if(num > arr[middle]){
         start = middle + 1;
         return binarySearch(num)
